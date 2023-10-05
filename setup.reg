@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\shell\WebPConverter]
+@="Convert to WebP"
+"Icon"="C:\\WebP Converter\\icon.ico"  ; Replace with the path to your custom icon
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\shell\WebPConverter\command]
+@="\"C:\\WebP Converter\\WebP Converter.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.png\shell\WebPConverter]
+@="Convert to WebP"
+"Icon"="C:\\WebP Converter\\icon.ico"  ; Replace with the path to your custom icon
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.png\shell\WebPConverter\command]
+@="\"C:\\WebP Converter\\WebP Converter.bat\" \"%1\""
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpeg\shell\WebPConverter]
+@="Convert to WebP"
+"Icon"="C:\\WebP Converter\\icon.ico"  ; Replace with the path to your custom icon
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpeg\shell\WebPConverter\command]
+@="\"C:\\WebP Converter\\WebP Converter.bat\" \"%1\""

@@ -8,6 +8,8 @@ WebP Converter is a lightweight utility designed to simplify the conversion of i
 
 - **Bulk Conversion**: WebP Converter supports batch conversion, making it efficient for processing multiple files at once.
 
+- **File Explorer Integration**: Seamless integration with the Windows Explorer context menu.
+
 - **Customization**: The tool is customizable with the option to set your own custom icon.
 
 ## Why WebP?
@@ -21,6 +23,21 @@ WebP Converter is a lightweight utility designed to simplify the conversion of i
 2. Right-click and choose the "Convert to WebP" option from the context menu.
 
 3. The selected files will be converted to WebP format and saved in the same directory.
+
+## Installation
+
+1. Clone or download this repository.
+
+2. Create a folder named "WebP Converter" on your C drive (`C:\WebP Converter`). You can do this by following these steps:
+   - Open File Explorer.
+   - Navigate to `C:\` drive.
+   - Right-click in the folder area, choose "New," and select "Folder."
+   - Name the folder "WebP Converter."
+
+3. Install the required Python libraries using `pip`:
+```bash
+  pip install -r requirements.txt
+```
 
 ## Contributions
 

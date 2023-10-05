@@ -20,6 +20,6 @@ WebP Converter is a simple utility for converting image files to the WebP format
 
 3. Install the required Python libraries using `pip`:
 ```bash
-  pip install -r requirements.txt
+  pip install Pillow
 ```
    

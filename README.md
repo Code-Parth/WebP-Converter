@@ -39,6 +39,8 @@ WebP Converter is a lightweight utility designed to simplify the conversion of i
   pip install Pillow
 ```
 
+4.   Merge (`setup.reg`) Registry File in your windows.
+
 ## Contributions
 
 Contributions to this project are welcome! Feel free to open issues, suggest enhancements, or submit pull requests.

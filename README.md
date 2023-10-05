@@ -36,7 +36,7 @@ WebP Converter is a lightweight utility designed to simplify the conversion of i
 
 3. Install the required Python libraries using `pip`:
 ```bash
-  pip install -Pillow
+  pip install Pillow
 ```
 
 ## Contributions
